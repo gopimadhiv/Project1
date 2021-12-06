@@ -1,1 +1,2 @@
+Enter after creating a branch from Tag
 This is my first file and first sentence
